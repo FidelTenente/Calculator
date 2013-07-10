@@ -42,6 +42,7 @@
     <Compile Include="DelTest.cs" />
     <Compile Include="Costest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SubTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AuthoringTests.txt" />
