@@ -101,6 +101,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Sin.cs" />
     <Compile Include="singleFabrica.cs" />
     <Compile Include="singleOperation.cs" />
     <Compile Include="SqrtOp.cs" />
