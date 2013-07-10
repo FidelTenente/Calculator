@@ -99,7 +99,7 @@ namespace Calculator
 
         private void button13_Click(object sender, EventArgs e)
         {
-
+            singleWork("1/X");
         }
 
         private void button14_Click(object sender, EventArgs e)
