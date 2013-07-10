@@ -79,22 +79,22 @@ namespace Calculator
 
         private void button9_Click(object sender, EventArgs e)
         {
-
+            singleWork("Sin");
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-
+            singleWork("Cos");
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
-
+            singleWork("Tan");
         }
 
         private void button11_Click(object sender, EventArgs e)
         {
-
+            singleWork("Atan");
         }
 
         private void button13_Click(object sender, EventArgs e)
@@ -104,17 +104,17 @@ namespace Calculator
 
         private void button14_Click(object sender, EventArgs e)
         {
-
+            singleWork("Exp");
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-
+            singleWork("Acos");
         }
 
         private void button15_Click(object sender, EventArgs e)
         {
-
+            singleWork("Asin");
         }
 
         

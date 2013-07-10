@@ -158,7 +158,7 @@
             // 
             // button8
             // 
-            this.button8.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button8.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button8.Location = new System.Drawing.Point(208, 346);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
@@ -169,7 +169,7 @@
             // 
             // button9
             // 
-            this.button9.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button9.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button9.Location = new System.Drawing.Point(208, 317);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
@@ -180,7 +180,7 @@
             // 
             // button10
             // 
-            this.button10.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button10.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button10.Location = new System.Drawing.Point(208, 376);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 23);
@@ -191,7 +191,7 @@
             // 
             // button11
             // 
-            this.button11.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button11.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button11.Location = new System.Drawing.Point(208, 406);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(75, 23);
@@ -212,7 +212,7 @@
             // 
             // button13
             // 
-            this.button13.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button13.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button13.Location = new System.Drawing.Point(295, 375);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(75, 23);
@@ -223,7 +223,7 @@
             // 
             // button14
             // 
-            this.button14.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button14.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button14.Location = new System.Drawing.Point(385, 373);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(75, 23);
@@ -234,7 +234,7 @@
             // 
             // button15
             // 
-            this.button15.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button15.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button15.Location = new System.Drawing.Point(385, 317);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(75, 23);
@@ -245,7 +245,7 @@
             // 
             // button16
             // 
-            this.button16.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.button16.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button16.Location = new System.Drawing.Point(385, 344);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(75, 23);
