@@ -12,6 +12,7 @@ namespace Calculator
             switch (arg1)
             {
                 case "sqrt": return new SqrtOp();
+                case "Logarithm": return new Logarithm();
                 default: throw new Exception("Ошибка");
             }
         }

@@ -15,7 +15,7 @@ namespace Calculator
                 case "-": return new Sub();
                 case "*": return new Mul();
                 case "/": return new Del();
-                case "PowOp": return new PowOp();
+                case "X^Y": return new PowOp();
                 default: throw new Exception("Ошибка");
             }
 

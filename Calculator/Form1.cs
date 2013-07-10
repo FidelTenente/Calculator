@@ -67,7 +67,12 @@ namespace Calculator
 
         private void button7_Click(object sender, EventArgs e)
         {
-            work("PowOp");
+            work("X^Y");
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            singleWork("Logarithm");
         }
 
         

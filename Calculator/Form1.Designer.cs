@@ -197,6 +197,7 @@
             this.button12.TabIndex = 15;
             this.button12.Text = "log";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button13
             // 
