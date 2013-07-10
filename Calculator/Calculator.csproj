@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Acos.cs" />
     <Compile Include="Add.cs" />
+    <Compile Include="Asin.cs" />
     <Compile Include="Cos.cs" />
     <Compile Include="Del.cs" />
     <Compile Include="Fabrica.cs" />
