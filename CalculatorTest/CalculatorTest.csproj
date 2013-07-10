@@ -42,6 +42,7 @@
     <Compile Include="AddTest.cs" />
     <Compile Include="DelTest.cs" />
     <Compile Include="Costest.cs" />
+    <Compile Include="MulTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SubTest.cs" />
   </ItemGroup>
