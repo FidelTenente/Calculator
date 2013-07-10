@@ -110,6 +110,7 @@
     <Compile Include="singleOperation.cs" />
     <Compile Include="SqrtOp.cs" />
     <Compile Include="Sub.cs" />
+    <Compile Include="Tan.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
