@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Acos.cs" />
     <Compile Include="Add.cs" />
     <Compile Include="Cos.cs" />
     <Compile Include="Del.cs" />
