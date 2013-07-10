@@ -38,6 +38,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AcosTest.cs" />
     <Compile Include="AddTest.cs" />
     <Compile Include="Costest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
