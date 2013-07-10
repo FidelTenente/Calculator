@@ -13,6 +13,7 @@ namespace Calculator
             {
                 case "sqrt": return new SqrtOp();
                 case "Logarithm": return new Logarithm();
+                case "1/X": return new Odin();
                 default: throw new Exception("Ошибка");
             }
         }
