@@ -3,7 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{17B5A7E9-57F2-41BE-826A-D67F55B24B2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{21FEAE66-B454-4FE1-9BF3-5EA68D33DEA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{807B848A-F23D-4B93-A28B-F2A96E2A7371}"
+	ProjectSection(SolutionItems) = preProject
+		Calculator.vsmdi = Calculator.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Calculator.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -13,6 +24,10 @@ Global
 		{17B5A7E9-57F2-41BE-826A-D67F55B24B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17B5A7E9-57F2-41BE-826A-D67F55B24B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17B5A7E9-57F2-41BE-826A-D67F55B24B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FEAE66-B454-4FE1-9BF3-5EA68D33DEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FEAE66-B454-4FE1-9BF3-5EA68D33DEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FEAE66-B454-4FE1-9BF3-5EA68D33DEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FEAE66-B454-4FE1-9BF3-5EA68D33DEA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
