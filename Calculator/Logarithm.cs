@@ -11,6 +11,7 @@ namespace Calculator
         public override double singleCalculation(double a)
         {
             return Math.Log10(a);
+            
         }
     }
 }

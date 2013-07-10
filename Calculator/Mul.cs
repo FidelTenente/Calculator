@@ -10,6 +10,7 @@ namespace Calculator
         public override double Calculation(double a, double b)
         {
             return a * b;
+            
         }
     }
 }
